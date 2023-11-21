@@ -1,3 +1,5 @@
+# Lab Link: https://portswigger.net/web-security/logic-flaws/examples/lab-logic-flaws-excessive-trust-in-client-side-controls
+
 #!/usr/bin/python3
 import requests
 import sys
